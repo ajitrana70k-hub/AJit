@@ -1,0 +1,6 @@
+{
+  "name": "MY VIDEO",
+  "description": "Video-sharing social platform with creator channels, Shorts, Creator Studio, monetization analytics, and YouTube OAuth integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

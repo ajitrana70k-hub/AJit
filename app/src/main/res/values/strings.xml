@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MY VIDEO</string>
+    <string name="tagline">Create, stream, and grow your channel</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_shorts">Shorts</string>
+    <string name="nav_create">Create</string>
+    <string name="nav_subscriptions">Subscriptions</string>
+    <string name="nav_profile">Profile</string>
+    <string name="monetization_disclaimer">MY VIDEO operates its own independent Creator Partner Program and payout system. Earnings are calculated from MY VIDEO platform ad revenue and fan support, independent of YouTube.</string>
+</resources>
